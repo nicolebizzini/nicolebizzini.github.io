@@ -25,7 +25,8 @@ I have also collected and curated multimodal physiological datasets (EMG, NIRS) 
 # Academic Background
 
 M.Sc. in Bioengineering — Neuroengineering & Neurotechnologies
-Università di Genova (Final Grade: 107/110)
+Università di Genova (Final Grade: 107/110) 
+
 Merit-based scholarship for thesis research at NYU Langone Health (New York, USA)
 
 B.Sc. in Biomedical Engineering
@@ -40,7 +41,7 @@ I am particularly interested in:
 - Data-driven clinical decision support
 - Experimental system reliability in hospital environments
 
-#Let’s Connect
+# Let’s Connect
 
 Open to international opportunities
 📧 nicole.bizzini@gmail.com
